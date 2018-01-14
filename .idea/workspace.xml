@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19f1f606-a8bd-43af-827f-f0ab06bf099c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.ts" afterPath="$PROJECT_DIR$/server.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.animation.ts" afterPath="$PROJECT_DIR$/src/app/app.animation.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.html" afterPath="$PROJECT_DIR$/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.server.module.ts" afterPath="$PROJECT_DIR$/src/app/app.server.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/breadcrumbs/breadcrumbs.component.scss" afterPath="$PROJECT_DIR$/src/app/core/breadcrumbs/breadcrumbs.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/core.module.ts" afterPath="$PROJECT_DIR$/src/app/core/core.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/layout/layout.component.html" afterPath="$PROJECT_DIR$/src/app/core/layout/layout.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/layout/layout.component.scss" afterPath="$PROJECT_DIR$/src/app/core/layout/layout.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/layout/layout.component.ts" afterPath="$PROJECT_DIR$/src/app/core/layout/layout.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/layout/layout.module.ts" afterPath="$PROJECT_DIR$/src/app/core/layout/layout.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/layout/shared/layout.action.ts" afterPath="$PROJECT_DIR$/src/app/core/layout/shared/layout.action.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/layout/shared/layout.reducer.ts" afterPath="$PROJECT_DIR$/src/app/core/layout/shared/layout.reducer.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list-column.model.ts" afterPath="$PROJECT_DIR$/src/app/core/list/list-column.model.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list-database.ts" afterPath="$PROJECT_DIR$/src/app/core/list/list-database.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list-datasource.ts" afterPath="$PROJECT_DIR$/src/app/core/list/list-datasource.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list.component.html" afterPath="$PROJECT_DIR$/src/app/core/list/list.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list.component.scss" afterPath="$PROJECT_DIR$/src/app/core/list/list.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list.component.spec.ts" afterPath="$PROJECT_DIR$/src/app/core/list/list.component.spec.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list.component.ts" afterPath="$PROJECT_DIR$/src/app/core/list/list.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list.interface.ts" afterPath="$PROJECT_DIR$/src/app/core/list/list.interface.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/list/list.module.ts" afterPath="$PROJECT_DIR$/src/app/core/list/list.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/page-header/page-header.component.html" afterPath="$PROJECT_DIR$/src/app/core/page-header/page-header.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/page-header/page-header.component.scss" afterPath="$PROJECT_DIR$/src/app/core/page-header/page-header.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/page-header/page-header.component.ts" afterPath="$PROJECT_DIR$/src/app/core/page-header/page-header.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/page-header/page-header.module.ts" afterPath="$PROJECT_DIR$/src/app/core/page-header/page-header.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/quickpanel/quickpanel.component.scss" afterPath="$PROJECT_DIR$/src/app/core/quickpanel/quickpanel.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/route-handler/route-handler.component.html" afterPath="$PROJECT_DIR$/src/app/core/route-handler/route-handler.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/route-handler/route-handler.component.ts" afterPath="$PROJECT_DIR$/src/app/core/route-handler/route-handler.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/scrollbar/scrollbar-options.ts" afterPath="$PROJECT_DIR$/src/app/core/scrollbar/scrollbar-options.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/scrollbar/scrollbar.component.ts" afterPath="$PROJECT_DIR$/src/app/core/scrollbar/scrollbar.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/scrollbar/scrollbar.module.ts" afterPath="$PROJECT_DIR$/src/app/core/scrollbar/scrollbar.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/scrollbar/scrollbar.service.ts" afterPath="$PROJECT_DIR$/src/app/core/scrollbar/scrollbar.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/settings/settings.component.html" afterPath="$PROJECT_DIR$/src/app/core/settings/settings.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/settings/settings.component.scss" afterPath="$PROJECT_DIR$/src/app/core/settings/settings.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/settings/settings.component.ts" afterPath="$PROJECT_DIR$/src/app/core/settings/settings.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/shared/sidenav.action.ts" afterPath="$PROJECT_DIR$/src/app/core/sidenav/shared/sidenav.action.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/shared/sidenav.reducer.ts" afterPath="$PROJECT_DIR$/src/app/core/sidenav/shared/sidenav.reducer.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/sidenav-item/sidenav-item.component.html" afterPath="$PROJECT_DIR$/src/app/core/sidenav/sidenav-item/sidenav-item.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/sidenav-item/sidenav-item.component.scss" afterPath="$PROJECT_DIR$/src/app/core/sidenav/sidenav-item/sidenav-item.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/sidenav-item/sidenav-item.component.ts" afterPath="$PROJECT_DIR$/src/app/core/sidenav/sidenav-item/sidenav-item.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/sidenav-item/sidenav-item.model.ts" afterPath="$PROJECT_DIR$/src/app/core/sidenav/sidenav-item/sidenav-item.model.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/sidenav.component.html" afterPath="$PROJECT_DIR$/src/app/core/sidenav/sidenav.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/sidenav.component.scss" afterPath="$PROJECT_DIR$/src/app/core/sidenav/sidenav.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/sidenav/sidenav.component.ts" afterPath="$PROJECT_DIR$/src/app/core/sidenav/sidenav.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/search-bar/search-bar.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/search-bar/search-bar.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/search-bar/search-bar.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/search-bar/search-bar.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/search-bar/search-bar.component.ts" afterPath="$PROJECT_DIR$/src/app/core/toolbar/search-bar/search-bar.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/search/search.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/search/search.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/search/search.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/search/search.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-alpha/toolbar-alpha.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-alpha/toolbar-alpha.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-beta/toolbar-beta.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-beta/toolbar-beta.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-beta/toolbar-beta.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-beta/toolbar-beta.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-gamma/toolbar-gamma.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-gamma/toolbar-gamma.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-gamma/toolbar-gamma.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-gamma/toolbar-gamma.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-dropdown-item/toolbar-navigation-dropdown-item.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-dropdown-item/toolbar-navigation-dropdown-item.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-dropdown-item/toolbar-navigation-dropdown-item.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-dropdown-item/toolbar-navigation-dropdown-item.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-dropdown-item/toolbar-navigation-dropdown-item.component.ts" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-dropdown-item/toolbar-navigation-dropdown-item.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-item.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-item.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-item.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation-item/toolbar-navigation-item.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation.component.ts" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-navigation/toolbar-navigation.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-notifications/toolbar-notifications.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-notifications/toolbar-notifications.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-notifications/toolbar-notifications.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-notifications/toolbar-notifications.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-notifications/toolbar-notifications.component.ts" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-notifications/toolbar-notifications.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-user-button/toolbar-user-button.component.html" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-user-button/toolbar-user-button.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-user-button/toolbar-user-button.component.scss" afterPath="$PROJECT_DIR$/src/app/core/toolbar/toolbar-user-button/toolbar-user-button.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/utils/click-outside.directive.ts" afterPath="$PROJECT_DIR$/src/app/core/utils/click-outside.directive.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/utils/component-destroyed.ts" afterPath="$PROJECT_DIR$/src/app/core/utils/component-destroyed.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/utils/count-up.directive.ts" afterPath="$PROJECT_DIR$/src/app/core/utils/count-up.directive.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/utils/highlight.directive.ts" afterPath="$PROJECT_DIR$/src/app/core/utils/highlight.directive.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/utils/list.animation.ts" afterPath="$PROJECT_DIR$/src/app/core/utils/list.animation.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/utils/update-object.ts" afterPath="$PROJECT_DIR$/src/app/core/utils/update-object.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/core/utils/utils.module.ts" afterPath="$PROJECT_DIR$/src/app/core/utils/utils.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/auth.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/auth/auth.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/auth.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/auth/auth.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/forgot-password/forgot-password.component.html" afterPath="$PROJECT_DIR$/src/app/pages/auth/forgot-password/forgot-password.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/forgot-password/forgot-password.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/auth/forgot-password/forgot-password.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/forgot-password/forgot-password.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/auth/forgot-password/forgot-password.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/forgot-password/forgot-password.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/auth/forgot-password/forgot-password.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/login/login.component.html" afterPath="$PROJECT_DIR$/src/app/pages/auth/login/login.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/login/login.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/auth/login/login.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/login/login.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/auth/login/login.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/login/login.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/auth/login/login.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/register/register.component.html" afterPath="$PROJECT_DIR$/src/app/pages/auth/register/register.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/register/register.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/auth/register/register.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/register/register.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/auth/register/register.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/auth/register/register.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/auth/register/register.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/chat/chat.component.html" afterPath="$PROJECT_DIR$/src/app/pages/chat/chat.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/chat/chat.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/chat/chat.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/chat/chat.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/chat/chat.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/chat/chat.demo.ts" afterPath="$PROJECT_DIR$/src/app/pages/chat/chat.demo.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/chat/chat.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/chat/chat.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/chat/chat.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/chat/chat.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-autocomplete/components-autocomplete.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-autocomplete/components-autocomplete.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-autocomplete/components-autocomplete.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-autocomplete/components-autocomplete.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-autocomplete/components-autocomplete.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-autocomplete/components-autocomplete.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-button/components-button.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-button/components-button.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-button/components-button.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-button/components-button.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-button/components-button.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-button/components-button.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-card/components-card.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-card/components-card.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-card/components-card.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-card/components-card.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-card/components-card.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-card/components-card.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-dialog/components-dialog.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-dialog/components-dialog.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-dialog/components-dialog.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-dialog/components-dialog.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-dialog/components-dialog.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-dialog/components-dialog.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-gridlist/components-gridlist.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-gridlist/components-gridlist.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-gridlist/components-gridlist.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-gridlist/components-gridlist.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-gridlist/components-gridlist.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-gridlist/components-gridlist.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-list/components-list.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-list/components-list.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-list/components-list.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-list/components-list.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-list/components-list.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-list/components-list.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-menu/components-menu.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-menu/components-menu.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-menu/components-menu.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-menu/components-menu.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-menu/components-menu.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-menu/components-menu.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-progress/components-progress.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-progress/components-progress.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-progress/components-progress.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/components/components-progress/components-progress.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-progress/components-progress.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-progress/components-progress.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-progress/components-progress.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-progress/components-progress.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-slider/components-slider.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-slider/components-slider.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-slider/components-slider.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-slider/components-slider.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-slider/components-slider.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-slider/components-slider.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-snackbar/components-snackbar.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-snackbar/components-snackbar.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-snackbar/components-snackbar.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-snackbar/components-snackbar.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-snackbar/components-snackbar.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-snackbar/components-snackbar.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-tooltip/components-tooltip.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components-tooltip/components-tooltip.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-tooltip/components-tooltip.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-tooltip/components-tooltip.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components-tooltip/components-tooltip.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components-tooltip/components-tooltip.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components.component.html" afterPath="$PROJECT_DIR$/src/app/pages/components/components.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/components/components.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/components/components.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/components/components.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/dashboard-crm.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/market-widget/market-widget.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/market-widget/market-widget.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/market-widget/market-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/market-widget/market-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/meeting-widget/meeting-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/meeting-widget/meeting-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/message-widget/message-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/message-widget/message-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/project-widget/project-widget.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/project-widget/project-widget.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/project-widget/project-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/project-widget/project-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/project-widget/project-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/project-widget/project-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/project-widget/project-widget.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/project-widget/project-widget.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/tasks-widget/tasks-widget.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/tasks-widget/tasks-widget.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/tasks-widget/tasks-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/tasks-widget/tasks-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/tasks-widget/tasks-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/tasks-widget/tasks-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/tasks-widget/tasks-widget.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/tasks-widget/tasks-widget.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/usertable-widget/usertable-widget.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/usertable-widget/usertable-widget.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/usertable-widget/usertable-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/usertable-widget/usertable-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/usertable-widget/usertable-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/usertable-widget/usertable-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/usertable-widget/usertable-widget.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-crm/usertable-widget/usertable-widget.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart-widget.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart-widget.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart/advanced-pie-chart.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart/advanced-pie-chart.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart/advanced-pie-chart.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart/advanced-pie-chart.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart/advanced-pie-chart.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/advanced-pie-chart-widget/advanced-pie-chart/advanced-pie-chart.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/areachart-widget/areachart-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/areachart-widget/areachart-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/areachart-widget/areachart-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/areachart-widget/areachart-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/areachart-widget/areachart-widget.data.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/areachart-widget/areachart-widget.data.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/barchart-widget/barchart-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/barchart-widget/barchart-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/barchart-widget/barchart-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/barchart-widget/barchart-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/barchart-widget/barchart-widget.data.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/barchart-widget/barchart-widget.data.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/dashboard-statistics-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/dashboard-statistics-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/dashboard-statistics.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/dashboard-statistics.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/dashboard-statistics.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/dashboard-statistics.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/dashboard-statistics.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/dashboard-statistics.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/maps-widget/maps-widget.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/maps-widget/maps-widget.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/maps-widget/maps-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/maps-widget/maps-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/recentsales-widget/recentsales-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/recentsales-widget/recentsales-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/recentsales-widget/recentsales-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/recentsales-widget/recentsales-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/recentsales-widget/recentsales-widget.data.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/recentsales-widget/recentsales-widget.data.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/sales-widget/sales-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/sales-widget/sales-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/sales-widget/sales-widget.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/sales-widget/sales-widget.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/sales-widget/sales-widget.data.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/sales-widget/sales-widget.data.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/state-widget/state-widget.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard-statistics/state-widget/state-widget.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.component.html" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/dashboard/dashboard.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.component.html" afterPath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/drag-and-drop/drag-and-drop.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/editor/editor.component.html" afterPath="$PROJECT_DIR$/src/app/pages/editor/editor.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/editor/editor.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/editor/editor.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/editor/editor.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/editor/editor.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/editor/editor.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/editor/editor.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/editor/editor.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/editor/editor.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/forms/form-elements/form-elements.component.html" afterPath="$PROJECT_DIR$/src/app/pages/forms/form-elements/form-elements.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/forms/form-elements/form-elements.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/forms/form-elements/form-elements.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/forms/form-elements/form-elements.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/forms/form-elements/form-elements.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/forms/form-wizard/form-wizard.component.html" afterPath="$PROJECT_DIR$/src/app/pages/forms/form-wizard/form-wizard.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/forms/form-wizard/form-wizard.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/forms/form-wizard/form-wizard.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/forms/forms.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/forms/forms.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/forms/forms.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/forms/forms.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.component.html" afterPath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/google-maps/google-maps.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/icon/icon.component.html" afterPath="$PROJECT_DIR$/src/app/pages/icon/icon.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/icon/icon.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/icon/icon.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/icon/icon.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/icon/icon.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/icon/icon.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/icon/icon.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/icon/icon.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/icon/icon.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/inbox-compose/inbox-compose.component.html" afterPath="$PROJECT_DIR$/src/app/pages/inbox/inbox-compose/inbox-compose.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/inbox-compose/inbox-compose.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/inbox/inbox-compose/inbox-compose.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/inbox.component.html" afterPath="$PROJECT_DIR$/src/app/pages/inbox/inbox.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/inbox.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/inbox/inbox.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/inbox.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/inbox/inbox.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/inbox.demo.ts" afterPath="$PROJECT_DIR$/src/app/pages/inbox/inbox.demo.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/inbox.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/inbox/inbox.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/inbox.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/inbox/inbox.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/mail.model.ts" afterPath="$PROJECT_DIR$/src/app/pages/inbox/mail.model.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/shared/inbox.action.ts" afterPath="$PROJECT_DIR$/src/app/pages/inbox/shared/inbox.action.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/inbox/shared/inbox.reducer.ts" afterPath="$PROJECT_DIR$/src/app/pages/inbox/shared/inbox.reducer.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-create-update/ocorrencia-viagem-create-update.component.html" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-create-update/ocorrencia-viagem-create-update.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-create-update/ocorrencia-viagem-create-update.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-create-update/ocorrencia-viagem-create-update.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-create-update/ocorrencia-viagem-create-update.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-create-update/ocorrencia-viagem-create-update.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-create-update/ocorrencia-viagem.model.ts" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-create-update/ocorrencia-viagem.model.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.component.html" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.demo.ts" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.demo.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/ocorrencia-viagem/ocorrencia-viagem.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/pages.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/pages.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/profile/profile-overview/profile-overview.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/profile/profile-overview/profile-overview.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/profile/profile.component.html" afterPath="$PROJECT_DIR$/src/app/pages/profile/profile.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/profile/profile.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/profile/profile.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/profile/profile.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/profile/profile.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/profile/profile.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/profile/profile.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/profile/profile.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/profile/profile.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/project-details/project-details.component.html" afterPath="$PROJECT_DIR$/src/app/pages/project-details/project-details.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/project-details/project-details.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/project-details/project-details.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/project-details/project-details.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/project-details/project-details.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/project-details/project-details.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/project-details/project-details.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/project-details/project-details.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/project-details/project-details.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/projects/projects.component.html" afterPath="$PROJECT_DIR$/src/app/pages/projects/projects.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/projects/projects.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/projects/projects.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/projects/projects.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/projects/projects.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/projects/projects.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/projects/projects.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/projects/projects.routing.ts" afterPath="$PROJECT_DIR$/src/app/pages/projects/projects.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.component.html" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.demo.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.demo.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/all-in-one-table.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/customer-create-update/customer-create-update.component.html" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/customer-create-update/customer-create-update.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/customer-create-update/customer-create-update.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/customer-create-update/customer-create-update.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/customer-create-update/customer-create-update.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/customer-create-update/customer-create-update.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/customer-create-update/customer.model.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/all-in-one-table/customer-create-update/customer.model.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable.component.html" afterPath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/datatable/datatable.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table.component.html" afterPath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/simple-table/simple-table.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering.component.html" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-filtering/table-filtering.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination.component.html" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-pagination/table-pagination.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting-routing.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting.component.html" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting.component.scss" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting.component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting.component.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting.module.ts" afterPath="$PROJECT_DIR$/src/app/pages/tables/table-sorting/table-sorting.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/reducers/index.ts" afterPath="$PROJECT_DIR$/src/app/reducers/index.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/environments/environment.ts" afterPath="$PROJECT_DIR$/src/environments/environment.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.server.ts" afterPath="$PROJECT_DIR$/src/main.server.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.ts" afterPath="$PROJECT_DIR$/src/main.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_badges.scss" afterPath="$PROJECT_DIR$/src/styles/_badges.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_boxed.scss" afterPath="$PROJECT_DIR$/src/styles/_boxed.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_card.scss" afterPath="$PROJECT_DIR$/src/styles/_card.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_elevation.scss" afterPath="$PROJECT_DIR$/src/styles/_elevation.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_helpers.scss" afterPath="$PROJECT_DIR$/src/styles/_helpers.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_misc.scss" afterPath="$PROJECT_DIR$/src/styles/_misc.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_tables.scss" afterPath="$PROJECT_DIR$/src/styles/_tables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_tabs.scss" afterPath="$PROJECT_DIR$/src/styles/_tabs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_tour.scss" afterPath="$PROJECT_DIR$/src/styles/_tour.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/_var.scss" afterPath="$PROJECT_DIR$/src/styles/_var.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/_dashboard.scss" afterPath="$PROJECT_DIR$/src/styles/components/_dashboard.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/_quickpanel.scss" afterPath="$PROJECT_DIR$/src/styles/components/_quickpanel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/_sidenav.scss" afterPath="$PROJECT_DIR$/src/styles/components/_sidenav.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/components/_toolbar.scss" afterPath="$PROJECT_DIR$/src/styles/components/_toolbar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/layouts/_layout-alpha.scss" afterPath="$PROJECT_DIR$/src/styles/layouts/_layout-alpha.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/layouts/_layout-beta.scss" afterPath="$PROJECT_DIR$/src/styles/layouts/_layout-beta.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/layouts/_layout-gamma.scss" afterPath="$PROJECT_DIR$/src/styles/layouts/_layout-gamma.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/pages/_chat.scss" afterPath="$PROJECT_DIR$/src/styles/pages/_chat.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/pages/_components.scss" afterPath="$PROJECT_DIR$/src/styles/pages/_components.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/pages/_form-wizard.scss" afterPath="$PROJECT_DIR$/src/styles/pages/_form-wizard.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/pages/_profile.scss" afterPath="$PROJECT_DIR$/src/styles/pages/_profile.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tsconfig.server.json" afterPath="$PROJECT_DIR$/src/tsconfig.server.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tslint.json" afterPath="$PROJECT_DIR$/tslint.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.server.config.js" afterPath="$PROJECT_DIR$/webpack.server.config.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="964" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portal-lojistica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portal-lojistica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portal-lojistica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portal-lojistica" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="portal-lojistica" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19f1f606-a8bd-43af-827f-f0ab06bf099c" name="Default" comment="" />
+      <created>1515942042144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515942042144</updated>
+      <workItem from="1515942043802" duration="1291000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit inicial">
+      <created>1515943592984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515943592984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1291000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="964" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit inicial" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
